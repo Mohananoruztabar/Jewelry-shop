@@ -1,6 +1,6 @@
 "use client";
-
 import React, { useState } from "react";
+
 
 export default function AccordionMenu(props) {
   const [openPanel, setOpenPanel] = useState(null);
@@ -77,10 +77,10 @@ export default function AccordionMenu(props) {
         </button>
         {openPanel === 3 && (
           <div className="divide-y divide-gray-300">
-            <p className="px-4 py-2"><i class="ri-checkbox-circle-line text-pink"></i> Exquisite Craftsmanship</p>
-            <p className="px-4 py-2"><i class="ri-checkbox-circle-line text-pink"> </i>Diverse Selection</p>
-            <p className="px-4 py-2"><i class="ri-checkbox-circle-line text-pink"></i> Customization Options</p> 
-            <p className="px-4 py-2"><i class="ri-checkbox-circle-line text-pink"></i> Exceptional Value</p>
+            <p className="px-4 py-2"><i className="ri-checkbox-circle-line text-pink"></i> Exquisite Craftsmanship</p>
+            <p className="px-4 py-2"><i className="ri-checkbox-circle-line text-pink"> </i>Diverse Selection</p>
+            <p className="px-4 py-2"><i className="ri-checkbox-circle-line text-pink"></i> Customization Options</p> 
+            <p className="px-4 py-2"><i className="ri-checkbox-circle-line text-pink"></i> Exceptional Value</p>
           </div>
         )}
       </div>
