@@ -1,6 +1,7 @@
 # Jewelry-shop
 online-shop
--[Demo Project][(https://mohananoruztabar.github.io/Bootsrap-responsive/)]
+
+-[Demo Project]
 
 -🙋🏽‍♀️ Developed by Mohana Noruztabar
 
