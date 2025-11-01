@@ -16,19 +16,14 @@ function Dashbord() {
     })
 
     const handelnewproduct = () => {
-       fetch("http://localhost:8000/products" , {
-        method : "POST" ,
-        headers: {
-           "Content-Type": "application/json",
-        },
-        body : JSON.stringify({
-            id : Math.floor(Math.random() * 100).toString() ,
-            name : newProduct.name ,
-            category : newProduct.category ,
-            price : 165.00 ,
-            imd : newProduct.img  
-        })
-       })  
+       const productToAdd = {
+        id: Math.floor(Math.random() * 10000).toString(),
+        name: newProduct.name,
+        category: newProduct.category,
+        price: parseFloat(newProduct.price),
+        imd: newProduct.img,
+        description: newProduct.description
+       }  
        toast.success("Product has been added successfully!...")
     }
   return (
