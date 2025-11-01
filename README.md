@@ -2,7 +2,8 @@
 
 online-shop
 
-[![Live Demo](https://img.shields.io/badge/✨_Live_Demo-C9A236?style=for-the-badge&logo=gem&logoColor=white&labelColor=C9A236)](https://jewelry-shop-gilt.vercel.app)
+[![Demo Project](https://img.shields.io/badge/Demo_Project-FFD700?style=for-the-badge&logo=rocket&logoColor=black)](https://jewelry-shop-gilt.vercel.app)
+[![Visit Site](https://img.shields.io/badge/Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jewelry-shop-gilt.vercel.app)
 
 -🙋🏽‍♀️ Developed by Mohana Noruztabar
 
