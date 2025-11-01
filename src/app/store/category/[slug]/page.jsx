@@ -3,14 +3,20 @@ import Container from '@/component/Container';
 import ProductItem from '@/component/ProductItem';
 import Paginate from '@/component/Paginate';
 import Link from 'next/link';
+import dataapi from "@/dataBase/db.json"
 
 async function getProductsByCategory(category, page = 1, per_page = 12) {
-  const res = await fetch(
-    `http://localhost:8000/products?category=${category}&_page=${page}&_per_page=${per_page}`,
-    { cache: 'no-store' }
+  const filtered = dataapi.products.filter(
+    p => p.category.toLowerCase() === category.toLowerCase()
   );
-  const data = await res.json();
-  return data;
+
+  const startIndex = (page - 1) * per_page;
+  const paginated = filtered.slice(startIndex, startIndex + per_page);
+
+  return {
+    data: paginated,
+    pages: Math.ceil(filtered.length / per_page)
+  };
 }
 
 export default async function CategoryPage({ params, searchParams }) {
@@ -24,7 +30,7 @@ export default async function CategoryPage({ params, searchParams }) {
 
   const products = await getProductsByCategory(normalizedSlug, page, per_page);
   const items = await products.data || [];
-  const pageCount = (await products).pages || 1;
+  const pageCount =  products.pages || 1;
 
   return (
     <Container>
