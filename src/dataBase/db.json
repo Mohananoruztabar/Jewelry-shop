@@ -1,0 +1,973 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "14K GOLD INITIAL NECKLACE",
+      "category": "Necklace",
+      "price": 165,
+      "imd": "/product136-300x300.webp",
+      "material": "Gold",
+      "brand": "Charm"
+    },
+    {
+      "id": "2",
+      "name": "47 EAR CUFF",
+      "category": "Earrings",
+      "price": 46,
+      "imd": "/product29-300x300.webp",
+      "material": "Silver",
+      "brand": "Retro Revival",
+      "color": "Turquoise"
+    },
+    {
+      "id": "3",
+      "name": "47 SILVER LINING EARRINGS",
+      "category": "Earrings",
+      "price": 56,
+      "imd": "/product128-300x300.webp",
+      "material": "Silver",
+      "brand": "Eastern"
+    },
+    {
+      "id": "4",
+      "name": "9CT WHITE GOLD 0.2CT TOTAL DIAMOND SOLITAIRE",
+      "category": "Rings",
+      "price": 24.99,
+      "imd": "/product-extended-new-300x300.webp",
+      "material": "Gold",
+      "brand": "Charm"
+    },
+    {
+      "id": "5",
+      "name": "9CT WHITE GOLD 0.33CT TOTAL DIAMOND SOLITAIRE",
+      "category": "Rings",
+      "price": 245,
+      "imd": "/product-extended-new-2-300x300.webp",
+      "material": "Silver",
+      "brand": "Eastern",
+      "color": "white"
+    },
+    {
+      "id": "6",
+      "name": "9CT WHITE GOLD CUBIC ZIRCONIA SOLITAIRE RINGS",
+      "category": "Rings",
+      "price": 999,
+      "imd": "/product99-300x300.webp",
+      "material": "Gold",
+      "brand": "Forest",
+      "color": "white"
+    },
+    {
+      "id": "7",
+      "name": "9CT WHITE GOLD CUBIC DIAMOND TWISTED ELERNITY RINGS",
+      "category": "Rings",
+      "price": 119,
+      "imd": "/product132-300x300.webp",
+      "material": "Gold",
+      "brand": "Luxer",
+      "color": "white"
+    },
+    {
+      "id": "8",
+      "name": "9CT WHITE GOLD I IOVE YOU RING",
+      "category": "Rings",
+      "price": 50,
+      "imd": "/product107-300x300.webp",
+      "material": "Gold, Rose Gold, Silver",
+      "brand": "Goddess",
+      "color": "white"
+    },
+    {
+      "id": "9",
+      "name": "9CT YELLOW GOLD CUBIC ZIRCONIA CURB CHAIN",
+      "category": "Bracelet",
+      "price": 299,
+      "imd": "/product15-300x300.webp",
+      "material": "Gold",
+      "brand": "Goddess",
+      "color": "yellow"
+    },
+    {
+      "id": "10",
+      "name": "9CT YELLOW GOLD CUBIC ZIRCONIA SOLITAIRE",
+      "category": "Earrings",
+      "price": 119,
+      "imd": "/product34-300x300.webp",
+      "material": "Gold",
+      "brand": "Luxer",
+      "color": "yellow"
+    },
+    {
+      "id": "11",
+      "name": "9CT YELLOW GOLD STARBURST BEADED STYLE",
+      "category": "Necklace",
+      "price": 169,
+      "imd": "/product16-300x300.webp",
+      "material": "Gold",
+      "brand": "Opulence",
+      "color": "yellow"
+    },
+    {
+      "id": "12",
+      "name": "9CT YELLOW GOLD TWIST HOOP EARRINGS",
+      "category": "Earrings",
+      "price": 79.99,
+      "imd": "/product129-300x300.webp",
+      "material": "Gold",
+      "brand": "Charm",
+      "color": "yellow"
+    },
+    {
+      "id": "13",
+      "name": "9CT YELLOW SOLID GOLD 20 INCH DAINTY CUBIC CHAIN",
+      "category": "Chain",
+      "price": 49.99,
+      "imd": "/product146-300x300.webp",
+      "material": "Gold",
+      "brand": "Forest",
+      "color": "yellow"
+    },
+    {
+      "id": "14",
+      "name": "9CT YELLOW SOLID GOLD STARBURST LINK BRACELET",
+      "category": "Bracelet",
+      "price": 69.99,
+      "imd": "/cat_53-150x150.webp",
+      "material": "Gold",
+      "brand": "Eastern",
+      "color": "yellow"
+    },
+    {
+      "id": "15",
+      "name": "ALPHABET RING",
+      "category": "Rings",
+      "price": 51,
+      "imd": "/product133-300x300.webp",
+      "material": "Silver",
+      "brand": "Celestial",
+      "color": "yellow"
+    },
+    {
+      "id": "16",
+      "name": "AMY EAR CUFF",
+      "category": "Earrings",
+      "price": 61.5,
+      "imd": "/product43-300x300.webp",
+      "material": "Silver",
+      "brand": "Vintage"
+    },
+    {
+      "id": "17",
+      "name": "AMY EAR CUFF WITH WHITE STONES",
+      "category": "Earrings",
+      "price": 61.5,
+      "imd": "/product28-300x300.webp",
+      "brand": "Retro Revival",
+      "color": "yellow"
+    },
+    {
+      "id": "18",
+      "name": "AMY HOOP EARRINGS",
+      "category": "Earrings",
+      "price": 101,
+      "imd": "/product4-300x300.webp",
+      "material": "Silver",
+      "brand": "Charm"
+    },
+    {
+      "id": "19",
+      "name": "ANAHIT GODDESS MEDALION NECKLACE",
+      "category": "Necklace",
+      "price": 71,
+      "imd": "/product81-1-300x300.webp",
+      "material": "Silver",
+      "brand": "Romance",
+      "color": "Purple"
+    },
+    {
+      "id": "20",
+      "name": "ANAHIT GODDESS NECKLACE",
+      "category": "Necklace",
+      "price": 56,
+      "imd": "/product68-300x300.webp",
+      "material": "Silver",
+      "brand": "Romance",
+      "color": "Red"
+    },
+    {
+      "id": "21",
+      "name": "ANAHIT GODDESS RING",
+      "category": "Rings",
+      "price": 97,
+      "imd": "/product20-300x300.webp",
+      "material": "Gold",
+      "brand": "Opulence",
+      "color": "Rose"
+    },
+    {
+      "id": "22",
+      "name": "ANGEL NECKLACE",
+      "category": "Necklace",
+      "price": 67,
+      "imd": "/product11-300x300.webp",
+      "material": "Gold",
+      "brand": "Romance"
+    },
+    {
+      "id": "23",
+      "name": "ANAHIT WING RING",
+      "category": "Rings",
+      "price": 52,
+      "imd": "/product134-300x300.webp",
+      "material": "Silver",
+      "brand": "Luxer"
+    },
+    {
+      "id": "24",
+      "name": "ANODIZZATO ALUMINIUM PENS - SILVER",
+      "category": "Pens",
+      "price": 235,
+      "imd": "/cat_89-150x150.webp",
+      "material": "Silver",
+      "brand": "Eastern"
+    },
+    {
+      "id": "25",
+      "name": "ANTIQUE RING",
+      "category": "Rings",
+      "price": 47,
+      "imd": "/product135-300x300.webp",
+      "material": "Silver",
+      "brand": "Charm"
+    },
+    {
+      "id": "26",
+      "name": "ANTIQUE STARFISH",
+      "category": "Starfish",
+      "price": 112,
+      "imd": "/cat02-150x150.webp",
+      "material": "Gold",
+      "brand": "Charm",
+      "color": "yellow"
+    },
+    {
+      "id": "27",
+      "name": "ARIES RING",
+      "category": "Rings",
+      "price": 62,
+      "imd": "/product116-300x300.webp",
+      "material": "Gold",
+      "brand": "Charm"
+    },
+    {
+      "id": "28",
+      "name": "ARMENIAN LETTER NECKLACE",
+      "category": "Necklace",
+      "price": 70.5,
+      "imd": "/product19-300x300.webp",
+      "material": "Silver",
+      "brand": "Celestial"
+    },
+    {
+      "id": "29",
+      "name": "ARMENIAN PATTERN POCKET SOUARE",
+      "category": "Pocket Souare",
+      "price": 99,
+      "imd": "/cat_40-150x150.webp",
+      "material": "Cotton",
+      "brand": "Vintage",
+      "color": "Blue"
+    },
+    {
+      "id": "30",
+      "name": "ASTEROID MATTE BEADED BRACELET",
+      "category": "Bracelet",
+      "price": 216,
+      "imd": "/product14-300x300.webp",
+      "brand": "Goddess",
+      "color": "Black"
+    },
+    {
+      "id": "31",
+      "name": "ASTEROID MATTE BEADED BRACELET",
+      "category": "Bracelet",
+      "price": 216,
+      "imd": "/product3-300x300.webp",
+      "material": "Bones, Gold",
+      "brand": "Retro Revival"
+    },
+    {
+      "id": "32",
+      "name": "AUTOMATIC WATCH - ROSE GOLD IP",
+      "category": "Watch",
+      "price": 705,
+      "imd": "/product106-300x300.webp",
+      "material": "Gold",
+      "brand": "Opulence"
+    },
+    {
+      "id": "33",
+      "name": "AUTOMATIC WATCH - STEEL",
+      "category": "Watch",
+      "price": 705,
+      "imd": "/product105-300x300.webp",
+      "material": "Gold",
+      "brand": "Romance",
+      "color": "Black"
+    },
+    {
+      "id": "34",
+      "name": "AUTOMATIC WATCH WA0018",
+      "category": "Watch",
+      "price": 475,
+      "imd": "/product104-300x300.webp",
+      "material": "Gold",
+      "brand": "Romance",
+      "color": "Rose"
+    },
+    {
+      "id": "35",
+      "name": "AUTOMATIC WATCH WA0107",
+      "category": "Watch",
+      "price": 719,
+      "imd": "/product103-300x300.webp",
+      "material": "Silver",
+      "brand": "Charm",
+      "color": "Brown"
+    },
+    {
+      "id": "36",
+      "name": "AUTOMATIC WATCH WA0108",
+      "category": "Watch",
+      "price": 723,
+      "imd": "/product102-300x300.webp",
+      "material": "Silver",
+      "brand": "Charm",
+      "color": "Black"
+    },
+    {
+      "id": "37",
+      "name": "AUTOMATIC WATCH WA0119",
+      "category": "Watch",
+      "price": 492,
+      "imd": "/product141-300x300.webp",
+      "material": "Stone",
+      "brand": "Vintage",
+      "color": "Black"
+    },
+    {
+      "id": "38",
+      "name": "BABO CHARM NECKLACE",
+      "category": "Necklace",
+      "price": 91,
+      "imd": "/product22-300x300.webp",
+      "material": "Stone",
+      "brand": "Opulence",
+      "color": "Brown"
+    },
+    {
+      "id": "39",
+      "name": "BABO FALANG RING",
+      "category": "Rings",
+      "price": 31,
+      "imd": "/product56-300x300.webp",
+      "material": "Gold",
+      "brand": "Goddess",
+      "color": "Red, Yellow"
+    },
+    {
+      "id": "40",
+      "name": "BASEL BRACELET - SILVER",
+      "category": "Bracelet",
+      "price": 490,
+      "imd": "/product85-300x300.webp",
+      "material": "Silver",
+      "brand": "Luxer"
+    },
+    {
+      "id": "41",
+      "name": "BERRI BRACELET",
+      "category": "Bracelet",
+      "price": 71,
+      "imd": "/product33-300x300.webp",
+      "material": "Stone",
+      "brand": "Goddess"
+    },
+    {
+      "id": "42",
+      "name": "BERRI RING",
+      "category": "Rings",
+      "price": 51,
+      "imd": "/product118-300x300.webp",
+      "material": "Gold",
+      "brand": "Eastern"
+    },
+    {
+      "id": "43",
+      "name": "BIG MOON RING",
+      "category": "Rings",
+      "price": 102,
+      "imd": "/product119-300x300.webp",
+      "material": "Silver",
+      "brand": "Romance"
+    },
+    {
+      "id": "44",
+      "name": "BLACK D - GOLD-BLACK DIAMOND BRACELETS - 1",
+      "category": "Bracelet",
+      "price": 3706,
+      "imd": "/product12-300x300.webp",
+      "material": "Gold",
+      "brand": "Retro Revival",
+      "color": "Black"
+    },
+    {
+      "id": "45",
+      "name": "BLACK D - GOLD-BLACK DIAMOND EARRINGS - 18",
+      "category": "Earrings",
+      "price": 3427,
+      "imd": "/product109-300x300.webp",
+      "material": "Gold",
+      "brand": "Retro Revival",
+      "color": "Black"
+    },
+    {
+      "id": "46",
+      "name": "BLUE EYE RING",
+      "category": "Rings",
+      "price": 49,
+      "imd": "/product120-300x300.webp",
+      "brand": "Retro Revival",
+      "color": "Blue"
+    },
+    {
+      "id": "47",
+      "name": "BLUE PIN",
+      "category": "Pin",
+      "price": 124,
+      "imd": "/product76-300x300.webp",
+      "brand": "Vintage",
+      "color": "Blue"
+    },
+    {
+      "id": "48",
+      "name": "BLUE TOPAZ SILVER GEM WINDOWS RECT",
+      "category": "Gemstone",
+      "price": 372,
+      "imd": "/product143-300x300.webp",
+      "material": "Silver",
+      "brand": "Vintage",
+      "color": "Blue"
+    },
+    {
+      "id": "49",
+      "name": "BOLD HEART EAR CUFF",
+      "category": "Earrings",
+      "price": 72,
+      "imd": "/product30-300x300.webp",
+      "material": "Gold",
+      "brand": "Celestial",
+      "color": "Purple"
+    },
+    {
+      "id": "50",
+      "name": "BOLD RING 'AGATE' ",
+      "category": "Rings",
+      "price": 78,
+      "imd": "/product122-300x300.webp",
+      "material": "Gold",
+      "brand": "Charm",
+      "color": "Rose"
+    },
+    {
+      "id": "51",
+      "name": "BRACELET WITH A HEMATITE STONE",
+      "category": "Bracelet",
+      "price": 82,
+      "imd": "/product13-300x300.webp",
+      "brand": "Goddess"
+    },
+    {
+      "id": "52",
+      "name": "BRACELET WITH SPHERES",
+      "category": "Bracelet",
+      "price": 97,
+      "imd": "/product82-300x300.webp",
+      "material": "Silver",
+      "brand": "Forest"
+    },
+    {
+      "id": "53",
+      "name": "BUTTON ROUND MOP",
+      "category": "Button",
+      "price": 4301,
+      "imd": "/cat_17-150x150.webp",
+      "brand": "Forest",
+      "color": "white"
+    },
+    {
+      "id": "54",
+      "name": "CABLE LNOT CUFFLINKS",
+      "category": "Cufflinks",
+      "price": 145,
+      "imd": "/product145-300x300.webp",
+      "brand": "Eastern"
+    },
+    {
+      "id": "55",
+      "name": "CALEN/FREEDOM 14K GOLD RING",
+      "category": "Rings",
+      "price": 502.5,
+      "imd": "/product121-300x300.webp",
+      "material": "Gold",
+      "brand": "Charm"
+    },
+    {
+      "id": "56",
+      "name": "HOT DIAMONDS 12 PIECE GIFT SET",
+      "category": "Gift Set",
+      "price": 249,
+      "imd": "/cat_59-150x150.webp",
+      "brand": "Vintage"
+    },
+    {
+      "id": "57",
+      "name": "STERLING SILVER 0.10CT DIAMOND DOUBLE HEART",
+      "category": "Necklace",
+      "price": 145,
+      "imd": "/cat_44-150x150.webp",
+      "material": "Silver",
+      "brand": "Forest"
+    },
+    {
+      "id": "58",
+      "name": "STERLING SILVER DOUBLE OVAL DIAMOND PENDANT",
+      "category": "Necklace",
+      "price": 129,
+      "imd": "/product36-300x300.webp",
+      "material": "Silver",
+      "brand": "Opulence"
+    },
+    {
+      "id": "59",
+      "name": "STERLING SILVER STONE SET TENNIS BRACELET",
+      "category": "Bracelet",
+      "price": 62.99,
+      "imd": "/product71-300x300.webp",
+      "material": "Silver",
+      "brand": "Celestial"
+    },
+    {
+      "id": "60",
+      "name": "STERLING SILVER TEARDROP DIAMOND PENDANT",
+      "category": "Necklace",
+      "price": 19.99,
+      "imd": "/product94-300x300.webp",
+      "material": "Silver",
+      "brand": "Celestial"
+    },
+    {
+      "id": "61",
+      "name": "STERLING SILVER TWIST CHAIN BRACELET",
+      "category": "Bracelet",
+      "price": 39.99,
+      "imd": "/product140-300x300.webp",
+      "material": "Silver",
+      "brand": "Goddess"
+    },
+    {
+      "id": "62",
+      "name": "STERLING SILVER TWIST CHAIN NECKLACE",
+      "category": "Necklace",
+      "price": 79.99,
+      "imd": "/product80-300x300.webp",
+      "material": "Silver",
+      "brand": "Romance"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Neclace",
+      "slug": "necklace"
+    },
+    {
+      "id": "2",
+      "name": "Earrings",
+      "slug": "earrings"
+    },
+    {
+      "id": "3",
+      "name": "Earrings",
+      "slug": "earrings"
+    },
+    {
+      "id": "4",
+      "name": "Rings",
+      "slug": "rings"
+    },
+    {
+      "id": "5",
+      "name": "Rings",
+      "slug": "rings"
+    },
+    {
+      "id": "6",
+      "name": "Rings",
+      "slug": "rings"
+    },
+    {
+      "id": "7",
+      "name": "Rings",
+      "slug": "rings"
+    },
+    {
+      "id": "8",
+      "name": "Rings",
+      "slug": "rings"
+    },
+    {
+      "id": "9",
+      "name": "Bracelet",
+      "slug": "bracelet"
+    },
+    {
+      "id": "10",
+      "name": "Earrings",
+      "slug": "earrings"
+    },
+    {
+      "id": "11",
+      "name": "Necklace",
+      "slug": "necklace"
+    },
+    {
+      "id": "12",
+      "name": "Earrings",
+      "slug": "earrings"
+    },
+    {
+      "id": "13",
+      "name": "Chain",
+      "slug": "chain"
+    },
+    {
+      "id": "14",
+      "name": "9CT YELLOW SOLID GOLD STARBURST LINK BRACELET",
+      "slug": "Bracelet"
+    },
+    {
+      "id": "15",
+      "name": "Rings",
+      "slug": "rings"
+    },
+    {
+      "id": "16",
+      "name": "Earrings",
+      "slug": "earrings"
+    },
+    {
+      "id": "17",
+      "name": "Earrings",
+      "slug": "earrings"
+    },
+    {
+      "id": "18",
+      "name": "Earrings",
+      "slug": "earrings"
+    },
+    {
+      "id": "19",
+      "name": "Necklace",
+      "slug": "necklace"
+    },
+    {
+      "id": "20",
+      "name": "Necklace",
+      "slug": "necklace"
+    },
+    {
+      "id": "21",
+      "name": "Rings",
+      "slug": "rings"
+    },
+    {
+      "id": "22",
+      "name": "Necklace",
+      "slug": "necklace"
+    },
+    {
+      "id": "23",
+      "name": "Rings",
+      "slug": "rings"
+    },
+    {
+      "id": "24",
+      "name": "Pens",
+      "slug": "pens"
+    },
+    {
+      "id": "25",
+      "name": "Rings",
+      "slug": "rings"
+    },
+    {
+      "id": "26",
+      "name": "Starfish",
+      "slug": "starfish"
+    },
+    {
+      "id": "27",
+      "name": "Rings",
+      "slug": "rings"
+    },
+    {
+      "id": "28",
+      "name": "Necklace",
+      "slug": "necklace"
+    },
+    {
+      "id": "29",
+      "name": "Pocket Souare",
+      "slug": "pocket souare"
+    },
+    {
+      "id": "30",
+      "name": "Bracelet",
+      "slug": "bracelet"
+    },
+    {
+      "id": "31",
+      "name": "Bracelet",
+      "slug": "bracelet"
+    },
+    {
+      "id": "32",
+      "name": "Watch",
+      "slug": "watch"
+    },
+    {
+      "id": "33",
+      "name": "Watch",
+      "slug": "watch"
+    },
+    {
+      "id": "34",
+      "name": "Watch",
+      "slug": "watch"
+    },
+    {
+      "id": "35",
+      "name": "Watch",
+      "slug": "watch"
+    },
+    {
+      "id": "36",
+      "name": "Watch",
+      "slug": "watch"
+    },
+    {
+      "id": "37",
+      "name": "Watch",
+      "slug": "watch"
+    },
+    {
+      "id": "38",
+      "name": "Necklace",
+      "slug": "necklace"
+    },
+    {
+      "id": "39",
+      "name": "Rings",
+      "slug": "rings"
+    },
+    {
+      "id": "40",
+      "name": "Bracelet",
+      "slug": "bracelet"
+    },
+    {
+      "id": "41",
+      "name": "Bracelet",
+      "slug": "bracelet"
+    },
+    {
+      "id": "42",
+      "name": "Rings",
+      "slug": "rings"
+    },
+    {
+      "id": "43",
+      "name": "Rings",
+      "slug": "rings"
+    },
+    {
+      "id": "44",
+      "name": "Bracelet",
+      "slug": "bracelet"
+    },
+    {
+      "id": "45",
+      "name": "Earrings",
+      "slug": "earrings"
+    },
+    {
+      "id": "46",
+      "name": "Rings",
+      "slug": "rings"
+    },
+    {
+      "id": "47",
+      "name": "Pin",
+      "slug": "pin"
+    },
+    {
+      "id": "48",
+      "name": "Gemstone",
+      "slug": "gemstone"
+    },
+    {
+      "id": "49",
+      "name": "Earrings",
+      "slug": "earrings"
+    },
+    {
+      "id": "50",
+      "name": "Rings",
+      "slug": "rings"
+    },
+    {
+      "id": "51",
+      "name": "Bracelet",
+      "slug": "bracelet"
+    },
+    {
+      "id": "52",
+      "name": "Bracelet",
+      "slug": "bracelet"
+    },
+    {
+      "id": "53",
+      "name": "Button",
+      "slug": "button"
+    },
+    {
+      "id": "54",
+      "name": "Cufflinks",
+      "slug": "cufflinks"
+    },
+    {
+      "id": "55",
+      "name": "Rings",
+      "slug": "rings"
+    },
+    {
+      "id": "56",
+      "name": "Gift Set",
+      "slug": "gift set"
+    },
+    {
+      "id": "57",
+      "name": "Necklace",
+      "slug": "necklace"
+    },
+    {
+      "id": "58",
+      "name": "Necklace",
+      "slug": "necklace"
+    },
+    {
+      "id": "59",
+      "name": "Bracelet",
+      "slug": "bracelet"
+    },
+    {
+      "id": "60",
+      "name": "Necklace",
+      "slug": "necklace"
+    },
+    {
+      "id": "61",
+      "name": "Bracelet",
+      "slug": "bracelet"
+    },
+    {
+      "id": "62",
+      "name": "Necklace",
+      "slug": "necklace"
+    }
+  ],
+  "discount": [
+    {
+      "id": "1",
+      "code": "Off10",
+      "persent": 10
+    },
+    {
+      "id": "2",
+      "code": "Off30",
+      "persent": 30
+    },
+    {
+      "id": "3",
+      "code": "Off60",
+      "persent": 60
+    }
+  ],
+  "blog": [
+    {
+      "id": "1",
+      "img": "/blog9-660x440.webp",
+      "title": "info styles",
+      "name": "How to Style Mismatched Earrings",
+      "description": "Mismatched earrings have become a bold and trendy fashion statement, offering endless opportunities for creativity and..",
+      "paraghraf": "Mismatched earrings have become a bold and trendy fashion statement, offering endless opportunities for creativity and self-expression. Whether you're mixing metals, shapes, or styles, there's no limit to the combinations you can create. In this guide, we'll explore the art of styling mismatched earrings to elevate your look and showcase your unique personality.",
+      "data": "Info / Styles / April 15, 2024 / Jørgen J. Hansen"
+    },
+    {
+      "id": "2",
+      "img": "/blog2-660x440.webp",
+      "title": "info styles",
+      "name": "What is Rose Gold and Why is it So Popular?",
+      "description": "Rose gold is a type of gold alloy that has a distinctive pinkish or reddish hue, created by mixing pure gold with copper and..",
+      "paraghraf": "Rose gold is a type of gold alloy that has a distinctive pinkish or reddish hue, created by mixing pure gold with copper and sometimes silver. The exact ratio of metals used in the alloy can vary, resulting in different shades of rose gold.",
+      "data": "Info / Styles / April 14, 2024 / Jørgen J. Hansen"
+    },
+    {
+      "id": "3",
+      "img": "/blog6-660x440.webp",
+      "title": "Collections info",
+      "name": "10 Must-Have Jewellery Pieces for Spring Summer 2024",
+      "description": "As the seasons change, so do fashion trends, and jewelry is no exception. Spring and summer bring a sense of renewal and..",
+      "paraghraf": "As the seasons change, so do fashion trends, and jewelry is no exception. Spring and summer bring a sense of renewal and vibrancy, making it the perfect time to update your jewelry collection with fresh and stylish pieces. Here are the top 10 must-have jewelry pieces for the upcoming spring and summer of 2024.",
+      "data": "Collections Info / April 7, 2024 / Jørgen J. Hansen"
+    },
+    {
+      "id": "4",
+      "img": "/blog8-660x440.webp",
+      "title": "Gemstone info",
+      "name": "Gemstone Spotlight: Aquamarine",
+      "description": "Aquamarine, with its serene blue hues reminiscent of the ocean depths, is a gemstone that captivates with its tranquil beauty...",
+      "paraghraf": "Mother's Day is a special occasion to celebrate the incredible women who have shaped our lives with love, wisdom, and strength. Whether your mum is a fashionista, a foodie, an adventurer, or a homebody, finding the perfect gift to express your appreciation can sometimes be a challenge. Fear not! We've curated a selection of thoughtful gifts tailored to every type of mum, so you can show her just how much she means to you on this special day.",
+      "data": "Gifts Info / March 12, 2024 / Jørgen J. Hansen"
+    },
+    {
+      "id": "5",
+      "img": "/blog7-660x440.webp",
+      "title": "info Watches",
+      "name": "Most Popular Retro Style Watches From Casio",
+      "description": "In the world of watches, Casio has long been synonymous with innovation, durability, and style. While the brand continues to..",
+      "paraghraf": "In the world of watches, Casio has long been synonymous with innovation, durability, and style. While the brand continues to push the boundaries with cutting-edge technology, there's a special place in the hearts of many for their retro-inspired timepieces. Let's take a closer look at some of the most popular retro style watches from Casio that have stood the test of time.",
+      "data": "Info Watches / February 28, 2024 / Jørgen J. Hansen"
+    },
+    {
+      "id": "6",
+      "img": "/blog4-660x440.webp",
+      "title": "info Styles",
+      "name": "Style To Make You Smile: H.Samuel Reimagined",
+      "description": "Prepare to embark on a journey where style meets joy and elegance intertwines with delight. H.Samuel, a beloved name in the..",
+      "paraghraf": "Prepare to embark on a journey where style meets joy and elegance intertwines with delight. H.Samuel, a beloved name in the world of jewelry, has undergone a transformation, reimagining the shopping experience to bring even more smiles to its customers' faces. Let's explore the new and exciting changes that await as H.Samuel embraces a fresh perspective on style and sophistication.",
+      "data": "Info Styles / January 24, 2024 / Jørgen J. Hansen"
+    }
+  ]
+}
