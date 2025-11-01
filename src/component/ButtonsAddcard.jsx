@@ -12,7 +12,7 @@ function ButtonsAddcard(props) {
 
     const handleAddToCart = () => {
       handelIncreaseProductQty(props.id)
-      toast.success("Product added to cart! Redirecting to checkout...")
+    
     }
 
   return (
