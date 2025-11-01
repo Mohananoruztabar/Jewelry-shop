@@ -4,7 +4,7 @@ import CartItem from '@/component/CartItem'
 import Container from '@/component/Container'
 import React, { useEffect, useState } from 'react'
 import { useContext } from 'react'
-import axios, { Axios } from 'axios'
+import dataapi from "@/dataBase/db.json"
 
 function Cart() {
 
@@ -15,27 +15,25 @@ function Cart() {
   const [profitPrice , setProfitPrice] = useState(0)
   const [sub , setSub] = useState(0)
 
-  useEffect(() =>{
-
-    fetch("http://localhost:8000/products")
-    .then(res => res.json())
-    .then(data => setProduc(data) )
+  useEffect(() => {
+    setProduc(dataapi.products)
   } , [])
 
   const handelDiscount = () =>{
-    
-    axios(`http://localhost:8000/discount?code=${discountCode}`)
-    .then((res) => {
-      console.log(res)
-      const {data} = res
-      setDiscountCode(data)
+    const discountData = dataapi.discount.filter(d => d.code === discountCode)
+    if(discountData.length === 0){
+      alert("Invalid discount code")
+      setProfitPrice(0)
+      setSub(0)
+      return
+    }
 
-      const Profit = TotalPrice * data[0].persent / 100
-      const SubTotal = TotalPrice - Profit
+    const percent = discountData[0].persent
+    const Profit = TotalPrice * percent / 100
+    const SubTotal = TotalPrice - Profit
 
-      setProfitPrice(Profit)
-      setSub(SubTotal)
-    })
+    setProfitPrice(Profit)
+    setSub(SubTotal)
   
   }
  
