@@ -37,7 +37,7 @@ async function Store(props) {
               {products.data.map((item , i) =>{
                 return(
                   <Link key={i} href={`/store/product/${item.id}`}>
-                    <ProductItem key={item.id} {...item}  />
+                    <ProductItem  {...item}  />
                   </Link>
                   )
               })}
