@@ -30,7 +30,7 @@ export default function Header() {
     }
 
 
-   const h3 = currentSlide.querySelector("h3"); 
+    const h3 = currentSlide.querySelector("h3"); 
     gsap.fromTo(h3, { x: -300, opacity : 0}, { duration: 1, delay: 1  , x : 0 , opacity : 1 , ease: "power2.out" });
    
     const p = currentSlide.querySelector("p");
