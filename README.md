@@ -1,7 +1,7 @@
 # Jewelry-shop
 online-shop
 
--🚀 **Live Demo:** https://jewelry-shop-gilt.vercel.app/
+-[![Vercel](https://img.shields.io/badge/View_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jewelry-shop-gilt.vercel.app)
 
 -🙋🏽‍♀️ Developed by Mohana Noruztabar
 
