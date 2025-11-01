@@ -11,7 +11,7 @@ function ProductItem(props) {
     <div className='border-trans flex w-[250px] h-[400px] justify-center items-center mb-10 hover:border-pink border'>
         <div className=''>
             <figure>
-                <img className='w-[200px]' src={props.imd} alt="" />
+                <img className='w-[200px]' src={props.img} alt="" />
             </figure>
             <div className='mt-6 text-center'>
                 <h3 className='mt-2 hover:text-pink'>{props.name}</h3>
