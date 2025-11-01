@@ -6,14 +6,17 @@ import Link from 'next/link'
 import React from 'react'
 import dataapi from "@/dataBase/db.json"
 
-
 function getProduct(page = 1, per_page = 12, name = "") {
-  let filtered = dataapi.products.filter(p =>
-    p.name.toLowerCase().includes(name.toLowerCase())
-  );
+  let filtered = dataapi.products;
+  
+  if (name && name.trim() !== "") {
+    filtered = dataapi.products.filter(p =>
+      p.name.toLowerCase().includes(name.toLowerCase())
+    );
+  }
 
   const startIndex = (page - 1) * per_page;
-  const paginated = filtered.slice(startIndex, startIndex + per_page);
+  const paginated = filtered.slice(startIndex, startIndex + parseInt(per_page));
 
   return {
     data: paginated,
@@ -21,15 +24,18 @@ function getProduct(page = 1, per_page = 12, name = "") {
   };
 }
 
-function Store(props) {
-  const page = props.searchParams?.page ? parseInt(props.searchParams.page) : 1;
-  const per_page = props.searchParams?.per_page ? parseInt(props.searchParams.per_page) : 12;
-  const name = props.searchParams?.name || "";
+// تابع async کن
+async function Store(props) {
+  // await کن searchParams رو
+  const searchParams = await props.searchParams;
+  const page = searchParams?.page ? parseInt(searchParams.page) : 1;
+  const per_page = searchParams?.per_page ? parseInt(searchParams.per_page) : 12;
+  const name = searchParams?.name || "";
+
+  console.log('Search params:', { page, per_page, name }); // دیباگ
 
   const products = getProduct(page, per_page, name);
-  
 
-  
   return (
     <div>
         <Container>
@@ -37,15 +43,32 @@ function Store(props) {
             <div>
                 <SliderShop />
             </div>
+            
+            {/* نشان دادن نتیجه جستجو */}
+            {name && (
+              <div className='mt-4 text-center'>
+                <p>Search results for: <strong>"{name}"</strong> ({products.data.length} products found)</p>
+              </div>
+            )}
+
             <div className='grid grid-cols-4'>
-              {products.data.map((item , i) =>{
+              {products.data.map((item) => {
                 return(
-                  <Link key={i} href={`/store/product/${item.id}`}>
-                    <ProductItem  {...item}  />
+                  <Link key={item.id} href={`/store/product/${item.id}`}>
+                    <ProductItem {...item} />
                   </Link>
-                  )
+                )
               })}
             </div>
+
+            {products.data.length === 0 && name && (
+              <div className='text-center mt-8'>
+                <p>No products found for "{name}"</p>
+                <Link href="/store" className='text-pink hover:underline'>
+                  View all products
+                </Link>
+              </div>
+            )}
 
             <Paginate pageCount={products.pages}/>
           </Container>
