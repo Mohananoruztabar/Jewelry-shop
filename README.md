@@ -1,7 +1,7 @@
 # Jewelry-shop
 online-shop
 
--[Demo Project]
+-🚀 **Live Demo:** https://jewelry-shop-gilt.vercel.app/
 
 -🙋🏽‍♀️ Developed by Mohana Noruztabar
 
