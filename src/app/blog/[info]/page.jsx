@@ -1,14 +1,13 @@
 import React from 'react'
+import dataapi from "@/dataBase/db.json"
 
 async function GetInfoBlog(props) {
 
     const { info } = await props.params
 
 
-    const result = await fetch(`http://localhost:8000/blog/${info}`)
-    const data = await result.json()
-    console.log(data)
-    console.log("id:", info);
+    const data = dataapi.blog.find(b => b.id.toString() === info || b.slug === info)
+    if (!data) return <div>Blog not found</div>
 
   return (
     <div>
