@@ -5,7 +5,7 @@
       "name": "14K GOLD INITIAL NECKLACE",
       "category": "Necklace",
       "price": 165,
-      "imd": "/product136-300x300.webp",
+      "img": "/product136-300x300.webp",
       "material": "Gold",
       "brand": "Charm"
     },
@@ -14,7 +14,7 @@
       "name": "47 EAR CUFF",
       "category": "Earrings",
       "price": 46,
-      "imd": "/product29-300x300.webp",
+      "img": "/product29-300x300.webp",
       "material": "Silver",
       "brand": "Retro Revival",
       "color": "Turquoise"
@@ -24,7 +24,7 @@
       "name": "47 SILVER LINING EARRINGS",
       "category": "Earrings",
       "price": 56,
-      "imd": "/product128-300x300.webp",
+      "img": "/product128-300x300.webp",
       "material": "Silver",
       "brand": "Eastern"
     },
@@ -33,7 +33,7 @@
       "name": "9CT WHITE GOLD 0.2CT TOTAL DIAMOND SOLITAIRE",
       "category": "Rings",
       "price": 24.99,
-      "imd": "/product-extended-new-300x300.webp",
+      "img": "/product-extended-new-300x300.webp",
       "material": "Gold",
       "brand": "Charm"
     },
@@ -42,7 +42,7 @@
       "name": "9CT WHITE GOLD 0.33CT TOTAL DIAMOND SOLITAIRE",
       "category": "Rings",
       "price": 245,
-      "imd": "/product-extended-new-2-300x300.webp",
+      "img": "/product-extended-new-2-300x300.webp",
       "material": "Silver",
       "brand": "Eastern",
       "color": "white"
@@ -52,7 +52,7 @@
       "name": "9CT WHITE GOLD CUBIC ZIRCONIA SOLITAIRE RINGS",
       "category": "Rings",
       "price": 999,
-      "imd": "/product99-300x300.webp",
+      "img": "/product99-300x300.webp",
       "material": "Gold",
       "brand": "Forest",
       "color": "white"
@@ -62,7 +62,7 @@
       "name": "9CT WHITE GOLD CUBIC DIAMOND TWISTED ELERNITY RINGS",
       "category": "Rings",
       "price": 119,
-      "imd": "/product132-300x300.webp",
+      "img": "/product132-300x300.webp",
       "material": "Gold",
       "brand": "Luxer",
       "color": "white"
@@ -72,7 +72,7 @@
       "name": "9CT WHITE GOLD I IOVE YOU RING",
       "category": "Rings",
       "price": 50,
-      "imd": "/product107-300x300.webp",
+      "img": "/product107-300x300.webp",
       "material": "Gold, Rose Gold, Silver",
       "brand": "Goddess",
       "color": "white"
@@ -82,7 +82,7 @@
       "name": "9CT YELLOW GOLD CUBIC ZIRCONIA CURB CHAIN",
       "category": "Bracelet",
       "price": 299,
-      "imd": "/product15-300x300.webp",
+      "img": "/product15-300x300.webp",
       "material": "Gold",
       "brand": "Goddess",
       "color": "yellow"
@@ -92,7 +92,7 @@
       "name": "9CT YELLOW GOLD CUBIC ZIRCONIA SOLITAIRE",
       "category": "Earrings",
       "price": 119,
-      "imd": "/product34-300x300.webp",
+      "img": "/product34-300x300.webp",
       "material": "Gold",
       "brand": "Luxer",
       "color": "yellow"
@@ -102,7 +102,7 @@
       "name": "9CT YELLOW GOLD STARBURST BEADED STYLE",
       "category": "Necklace",
       "price": 169,
-      "imd": "/product16-300x300.webp",
+      "img": "/product16-300x300.webp",
       "material": "Gold",
       "brand": "Opulence",
       "color": "yellow"
@@ -112,7 +112,7 @@
       "name": "9CT YELLOW GOLD TWIST HOOP EARRINGS",
       "category": "Earrings",
       "price": 79.99,
-      "imd": "/product129-300x300.webp",
+      "img": "/product129-300x300.webp",
       "material": "Gold",
       "brand": "Charm",
       "color": "yellow"
@@ -122,7 +122,7 @@
       "name": "9CT YELLOW SOLID GOLD 20 INCH DAINTY CUBIC CHAIN",
       "category": "Chain",
       "price": 49.99,
-      "imd": "/product146-300x300.webp",
+      "img": "/product146-300x300.webp",
       "material": "Gold",
       "brand": "Forest",
       "color": "yellow"
@@ -132,7 +132,7 @@
       "name": "9CT YELLOW SOLID GOLD STARBURST LINK BRACELET",
       "category": "Bracelet",
       "price": 69.99,
-      "imd": "/cat_53-150x150.webp",
+      "img": "/cat_53-150x150.webp",
       "material": "Gold",
       "brand": "Eastern",
       "color": "yellow"
@@ -142,7 +142,7 @@
       "name": "ALPHABET RING",
       "category": "Rings",
       "price": 51,
-      "imd": "/product133-300x300.webp",
+      "img": "/product133-300x300.webp",
       "material": "Silver",
       "brand": "Celestial",
       "color": "yellow"
@@ -152,7 +152,7 @@
       "name": "AMY EAR CUFF",
       "category": "Earrings",
       "price": 61.5,
-      "imd": "/product43-300x300.webp",
+      "img": "/product43-300x300.webp",
       "material": "Silver",
       "brand": "Vintage"
     },
@@ -161,7 +161,7 @@
       "name": "AMY EAR CUFF WITH WHITE STONES",
       "category": "Earrings",
       "price": 61.5,
-      "imd": "/product28-300x300.webp",
+      "img": "/product28-300x300.webp",
       "brand": "Retro Revival",
       "color": "yellow"
     },
@@ -170,7 +170,7 @@
       "name": "AMY HOOP EARRINGS",
       "category": "Earrings",
       "price": 101,
-      "imd": "/product4-300x300.webp",
+      "img": "/product4-300x300.webp",
       "material": "Silver",
       "brand": "Charm"
     },
@@ -179,7 +179,7 @@
       "name": "ANAHIT GODDESS MEDALION NECKLACE",
       "category": "Necklace",
       "price": 71,
-      "imd": "/product81-1-300x300.webp",
+      "img": "/product81-1-300x300.webp",
       "material": "Silver",
       "brand": "Romance",
       "color": "Purple"
@@ -189,7 +189,7 @@
       "name": "ANAHIT GODDESS NECKLACE",
       "category": "Necklace",
       "price": 56,
-      "imd": "/product68-300x300.webp",
+      "img": "/product68-300x300.webp",
       "material": "Silver",
       "brand": "Romance",
       "color": "Red"
@@ -199,7 +199,7 @@
       "name": "ANAHIT GODDESS RING",
       "category": "Rings",
       "price": 97,
-      "imd": "/product20-300x300.webp",
+      "img": "/product20-300x300.webp",
       "material": "Gold",
       "brand": "Opulence",
       "color": "Rose"
@@ -209,7 +209,7 @@
       "name": "ANGEL NECKLACE",
       "category": "Necklace",
       "price": 67,
-      "imd": "/product11-300x300.webp",
+      "img": "/product11-300x300.webp",
       "material": "Gold",
       "brand": "Romance"
     },
@@ -218,7 +218,7 @@
       "name": "ANAHIT WING RING",
       "category": "Rings",
       "price": 52,
-      "imd": "/product134-300x300.webp",
+      "img": "/product134-300x300.webp",
       "material": "Silver",
       "brand": "Luxer"
     },
@@ -227,7 +227,7 @@
       "name": "ANODIZZATO ALUMINIUM PENS - SILVER",
       "category": "Pens",
       "price": 235,
-      "imd": "/cat_89-150x150.webp",
+      "img": "/cat_89-150x150.webp",
       "material": "Silver",
       "brand": "Eastern"
     },
@@ -236,7 +236,7 @@
       "name": "ANTIQUE RING",
       "category": "Rings",
       "price": 47,
-      "imd": "/product135-300x300.webp",
+      "img": "/product135-300x300.webp",
       "material": "Silver",
       "brand": "Charm"
     },
@@ -245,7 +245,7 @@
       "name": "ANTIQUE STARFISH",
       "category": "Starfish",
       "price": 112,
-      "imd": "/cat02-150x150.webp",
+      "img": "/cat02-150x150.webp",
       "material": "Gold",
       "brand": "Charm",
       "color": "yellow"
@@ -255,7 +255,7 @@
       "name": "ARIES RING",
       "category": "Rings",
       "price": 62,
-      "imd": "/product116-300x300.webp",
+      "img": "/product116-300x300.webp",
       "material": "Gold",
       "brand": "Charm"
     },
@@ -264,7 +264,7 @@
       "name": "ARMENIAN LETTER NECKLACE",
       "category": "Necklace",
       "price": 70.5,
-      "imd": "/product19-300x300.webp",
+      "img": "/product19-300x300.webp",
       "material": "Silver",
       "brand": "Celestial"
     },
@@ -273,7 +273,7 @@
       "name": "ARMENIAN PATTERN POCKET SOUARE",
       "category": "Pocket Souare",
       "price": 99,
-      "imd": "/cat_40-150x150.webp",
+      "img": "/cat_40-150x150.webp",
       "material": "Cotton",
       "brand": "Vintage",
       "color": "Blue"
@@ -283,7 +283,7 @@
       "name": "ASTEROID MATTE BEADED BRACELET",
       "category": "Bracelet",
       "price": 216,
-      "imd": "/product14-300x300.webp",
+      "img": "/product14-300x300.webp",
       "brand": "Goddess",
       "color": "Black"
     },
@@ -292,7 +292,7 @@
       "name": "ASTEROID MATTE BEADED BRACELET",
       "category": "Bracelet",
       "price": 216,
-      "imd": "/product3-300x300.webp",
+      "img": "/product3-300x300.webp",
       "material": "Bones, Gold",
       "brand": "Retro Revival"
     },
@@ -301,7 +301,7 @@
       "name": "AUTOMATIC WATCH - ROSE GOLD IP",
       "category": "Watch",
       "price": 705,
-      "imd": "/product106-300x300.webp",
+      "img": "/product106-300x300.webp",
       "material": "Gold",
       "brand": "Opulence"
     },
@@ -310,7 +310,7 @@
       "name": "AUTOMATIC WATCH - STEEL",
       "category": "Watch",
       "price": 705,
-      "imd": "/product105-300x300.webp",
+      "img": "/product105-300x300.webp",
       "material": "Gold",
       "brand": "Romance",
       "color": "Black"
@@ -320,7 +320,7 @@
       "name": "AUTOMATIC WATCH WA0018",
       "category": "Watch",
       "price": 475,
-      "imd": "/product104-300x300.webp",
+      "img": "/product104-300x300.webp",
       "material": "Gold",
       "brand": "Romance",
       "color": "Rose"
@@ -330,7 +330,7 @@
       "name": "AUTOMATIC WATCH WA0107",
       "category": "Watch",
       "price": 719,
-      "imd": "/product103-300x300.webp",
+      "img": "/product103-300x300.webp",
       "material": "Silver",
       "brand": "Charm",
       "color": "Brown"
@@ -340,7 +340,7 @@
       "name": "AUTOMATIC WATCH WA0108",
       "category": "Watch",
       "price": 723,
-      "imd": "/product102-300x300.webp",
+      "img": "/product102-300x300.webp",
       "material": "Silver",
       "brand": "Charm",
       "color": "Black"
@@ -350,7 +350,7 @@
       "name": "AUTOMATIC WATCH WA0119",
       "category": "Watch",
       "price": 492,
-      "imd": "/product141-300x300.webp",
+      "img": "/product141-300x300.webp",
       "material": "Stone",
       "brand": "Vintage",
       "color": "Black"
@@ -360,7 +360,7 @@
       "name": "BABO CHARM NECKLACE",
       "category": "Necklace",
       "price": 91,
-      "imd": "/product22-300x300.webp",
+      "img": "/product22-300x300.webp",
       "material": "Stone",
       "brand": "Opulence",
       "color": "Brown"
@@ -370,7 +370,7 @@
       "name": "BABO FALANG RING",
       "category": "Rings",
       "price": 31,
-      "imd": "/product56-300x300.webp",
+      "img": "/product56-300x300.webp",
       "material": "Gold",
       "brand": "Goddess",
       "color": "Red, Yellow"
@@ -380,7 +380,7 @@
       "name": "BASEL BRACELET - SILVER",
       "category": "Bracelet",
       "price": 490,
-      "imd": "/product85-300x300.webp",
+      "img": "/product85-300x300.webp",
       "material": "Silver",
       "brand": "Luxer"
     },
@@ -389,7 +389,7 @@
       "name": "BERRI BRACELET",
       "category": "Bracelet",
       "price": 71,
-      "imd": "/product33-300x300.webp",
+      "img": "/product33-300x300.webp",
       "material": "Stone",
       "brand": "Goddess"
     },
@@ -398,7 +398,7 @@
       "name": "BERRI RING",
       "category": "Rings",
       "price": 51,
-      "imd": "/product118-300x300.webp",
+      "img": "/product118-300x300.webp",
       "material": "Gold",
       "brand": "Eastern"
     },
@@ -407,7 +407,7 @@
       "name": "BIG MOON RING",
       "category": "Rings",
       "price": 102,
-      "imd": "/product119-300x300.webp",
+      "img": "/product119-300x300.webp",
       "material": "Silver",
       "brand": "Romance"
     },
@@ -416,7 +416,7 @@
       "name": "BLACK D - GOLD-BLACK DIAMOND BRACELETS - 1",
       "category": "Bracelet",
       "price": 3706,
-      "imd": "/product12-300x300.webp",
+      "img": "/product12-300x300.webp",
       "material": "Gold",
       "brand": "Retro Revival",
       "color": "Black"
@@ -426,7 +426,7 @@
       "name": "BLACK D - GOLD-BLACK DIAMOND EARRINGS - 18",
       "category": "Earrings",
       "price": 3427,
-      "imd": "/product109-300x300.webp",
+      "img": "/product109-300x300.webp",
       "material": "Gold",
       "brand": "Retro Revival",
       "color": "Black"
@@ -436,7 +436,7 @@
       "name": "BLUE EYE RING",
       "category": "Rings",
       "price": 49,
-      "imd": "/product120-300x300.webp",
+      "img": "/product120-300x300.webp",
       "brand": "Retro Revival",
       "color": "Blue"
     },
@@ -445,7 +445,7 @@
       "name": "BLUE PIN",
       "category": "Pin",
       "price": 124,
-      "imd": "/product76-300x300.webp",
+      "img": "/product76-300x300.webp",
       "brand": "Vintage",
       "color": "Blue"
     },
@@ -454,7 +454,7 @@
       "name": "BLUE TOPAZ SILVER GEM WINDOWS RECT",
       "category": "Gemstone",
       "price": 372,
-      "imd": "/product143-300x300.webp",
+      "img": "/product143-300x300.webp",
       "material": "Silver",
       "brand": "Vintage",
       "color": "Blue"
@@ -464,7 +464,7 @@
       "name": "BOLD HEART EAR CUFF",
       "category": "Earrings",
       "price": 72,
-      "imd": "/product30-300x300.webp",
+      "img": "/product30-300x300.webp",
       "material": "Gold",
       "brand": "Celestial",
       "color": "Purple"
@@ -474,7 +474,7 @@
       "name": "BOLD RING 'AGATE' ",
       "category": "Rings",
       "price": 78,
-      "imd": "/product122-300x300.webp",
+      "img": "/product122-300x300.webp",
       "material": "Gold",
       "brand": "Charm",
       "color": "Rose"
@@ -484,7 +484,7 @@
       "name": "BRACELET WITH A HEMATITE STONE",
       "category": "Bracelet",
       "price": 82,
-      "imd": "/product13-300x300.webp",
+      "img": "/product13-300x300.webp",
       "brand": "Goddess"
     },
     {
@@ -492,7 +492,7 @@
       "name": "BRACELET WITH SPHERES",
       "category": "Bracelet",
       "price": 97,
-      "imd": "/product82-300x300.webp",
+      "img": "/product82-300x300.webp",
       "material": "Silver",
       "brand": "Forest"
     },
@@ -501,7 +501,7 @@
       "name": "BUTTON ROUND MOP",
       "category": "Button",
       "price": 4301,
-      "imd": "/cat_17-150x150.webp",
+      "img": "/cat_17-150x150.webp",
       "brand": "Forest",
       "color": "white"
     },
@@ -510,7 +510,7 @@
       "name": "CABLE LNOT CUFFLINKS",
       "category": "Cufflinks",
       "price": 145,
-      "imd": "/product145-300x300.webp",
+      "img": "/product145-300x300.webp",
       "brand": "Eastern"
     },
     {
@@ -518,7 +518,7 @@
       "name": "CALEN/FREEDOM 14K GOLD RING",
       "category": "Rings",
       "price": 502.5,
-      "imd": "/product121-300x300.webp",
+      "img": "/product121-300x300.webp",
       "material": "Gold",
       "brand": "Charm"
     },
@@ -527,7 +527,7 @@
       "name": "HOT DIAMONDS 12 PIECE GIFT SET",
       "category": "Gift Set",
       "price": 249,
-      "imd": "/cat_59-150x150.webp",
+      "img": "/cat_59-150x150.webp",
       "brand": "Vintage"
     },
     {
@@ -535,7 +535,7 @@
       "name": "STERLING SILVER 0.10CT DIAMOND DOUBLE HEART",
       "category": "Necklace",
       "price": 145,
-      "imd": "/cat_44-150x150.webp",
+      "img": "/cat_44-150x150.webp",
       "material": "Silver",
       "brand": "Forest"
     },
@@ -544,7 +544,7 @@
       "name": "STERLING SILVER DOUBLE OVAL DIAMOND PENDANT",
       "category": "Necklace",
       "price": 129,
-      "imd": "/product36-300x300.webp",
+      "img": "/product36-300x300.webp",
       "material": "Silver",
       "brand": "Opulence"
     },
@@ -553,7 +553,7 @@
       "name": "STERLING SILVER STONE SET TENNIS BRACELET",
       "category": "Bracelet",
       "price": 62.99,
-      "imd": "/product71-300x300.webp",
+      "img": "/product71-300x300.webp",
       "material": "Silver",
       "brand": "Celestial"
     },
@@ -562,7 +562,7 @@
       "name": "STERLING SILVER TEARDROP DIAMOND PENDANT",
       "category": "Necklace",
       "price": 19.99,
-      "imd": "/product94-300x300.webp",
+      "img": "/product94-300x300.webp",
       "material": "Silver",
       "brand": "Celestial"
     },
@@ -571,7 +571,7 @@
       "name": "STERLING SILVER TWIST CHAIN BRACELET",
       "category": "Bracelet",
       "price": 39.99,
-      "imd": "/product140-300x300.webp",
+      "img": "/product140-300x300.webp",
       "material": "Silver",
       "brand": "Goddess"
     },
@@ -580,7 +580,7 @@
       "name": "STERLING SILVER TWIST CHAIN NECKLACE",
       "category": "Necklace",
       "price": 79.99,
-      "imd": "/product80-300x300.webp",
+      "img": "/product80-300x300.webp",
       "material": "Silver",
       "brand": "Romance"
     }
