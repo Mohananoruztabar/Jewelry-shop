@@ -3,6 +3,7 @@ import { ShoppingCartItem } from "@/context/ShoppingCartItem"
 import React, { useEffect, useState } from 'react'
 import { useContext } from 'react'
 import ButtonItem from './ButtonItem'
+import dataapi from "@/dataBase/db.json"
 import Cart from "@/app/cart/page"
 
 function CartItem({id}) {
@@ -16,10 +17,8 @@ function CartItem({id}) {
     useEffect(()=>{
         if (!id) return;
 
-        fetch(`http://localhost:8000/products/${id}`)
-        .then((res) => res.json())
-        .then((data) => setItems(data))
-
+        const productData = dataapi.products.find(p => p.id === id);
+        setItems(productData);
         
     } , [id])
 
