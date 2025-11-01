@@ -15,7 +15,7 @@ export default function AccordionLeft() {
       <div className=" my-2">
         <button
           onClick={() => togglePanel(1)}
-          className="w-full flex justify-between items-center px-4 py-3 border font-bold transition"><img className="w-[40px]" src="/gift.svg" alt="" />
+          className="w-full flex justify-between items-center px-4 py-3 border font-bold transition"><img className="para3" src="/gift.svg" alt="" />
           Do you have my product in stock?
           <i
             className={`ri-arrow-down-s-line text-xl transition-transform duration-300 ${
