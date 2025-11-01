@@ -4,25 +4,29 @@ import ProductItem from '@/component/ProductItem'
 import SliderShop from '@/component/SliderShop'
 import Link from 'next/link'
 import React from 'react'
+import dataapi from "@/dataBase/db.json"
 
 
-async function getProduct(page  , per_page , name){
-  const result = await fetch(`http://localhost:8000/products?_page=${page}&_per_page=${per_page}&name=${name}`,
-    { cache: "no-store" }
-  )
-  const data = await result.json()
-  return data
+function getProduct(page = 1, per_page = 12, name = "") {
+  let filtered = dataapi.products.filter(p =>
+    p.name.toLowerCase().includes(name.toLowerCase())
+  );
+
+  const startIndex = (page - 1) * per_page;
+  const paginated = filtered.slice(startIndex, startIndex + per_page);
+
+  return {
+    data: paginated,
+    pages: Math.ceil(filtered.length / per_page)
+  };
 }
 
-async function Store(props) {
+function Store(props) {
+  const page = props.searchParams?.page ? parseInt(props.searchParams.page) : 1;
+  const per_page = props.searchParams?.per_page ? parseInt(props.searchParams.per_page) : 12;
+  const name = props.searchParams?.name || "";
 
-
-  const page =  (await props.searchParams)?.page || "1"
-  const per_page =  (await props.searchParams)?.per_page || "12"
-  const name = (await props.searchParams)?.name || ""
-
-
-  const products = await getProduct(page , per_page , name )
+  const products = getProduct(page, per_page, name);
   
 
   
