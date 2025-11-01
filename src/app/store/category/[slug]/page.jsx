@@ -14,14 +14,12 @@ async function getProductsByCategory(category, page = 1, per_page = 12) {
 }
 
 export default async function CategoryPage({ params, searchParams }) {
-  // اول چک کن slug موجود باشه
   const slug = (await params)?.slug;
   if (!slug) return <div>Category not found</div>;
 
   const page = searchParams?.page || 1;
   const per_page = searchParams?.per_page || 12;
 
-  // اگر میخوای اول حروف بزرگ باشه برای نمایش
   const normalizedSlug = slug.charAt(0).toUpperCase() + slug.slice(1).toLowerCase();
 
   const products = await getProductsByCategory(normalizedSlug, page, per_page);
