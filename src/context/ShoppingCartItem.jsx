@@ -46,8 +46,8 @@ export function ShoppingCartItemProvider({children}){
 
     useEffect(() =>{
         const storeCarts = localStorage.getItem("carts")
-        if(setCarts){
-            return setCarts(JSON.parse(storeCarts))
+        if(storeCarts){
+          setCarts(JSON.parse(storeCarts))
         }
     } , [])
 
