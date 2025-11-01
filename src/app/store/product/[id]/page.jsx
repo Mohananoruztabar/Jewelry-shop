@@ -3,21 +3,28 @@ import React from 'react'
 import AccordionMenu from '@/component/AccordionMenu'
 import ButtonItem from '@/component/ButtonItem'
 import ButtonsAddcard from '@/component/ButtonsAddcard'
+import dataapi from "@/dataBase/db.json"
 
 async function GetProduct(props) {
 
-    const { id } = await props.params
+  const { id } = await props.params;
+  console.log('ID from params:', id)
+  console.log('All products:', dataapi.products)
 
-    const result = await fetch(`http://localhost:8000/products/${id}`)
-    const data = await result.json()
+  // چک کن id عدد هست یا string
+  const productId = parseInt(id)
+  const data = dataapi.products.find(p => p.id == productId)
 
+  console.log('Found product:', data)
+
+  
 
   return (
     <div>
         <Container>
             <div className='grid grid-cols-3 gap-8 mt-20'>
                 <figure className='border border-trans'>
-                    <img className='h-[440px]' src={data.imd} alt="" />
+                    <img className='h-[440px]' src={data.img} alt="" />
                 </figure>
                 <div className=''>
                     <h3 className='text1 font-bold'>{data.name}</h3>
