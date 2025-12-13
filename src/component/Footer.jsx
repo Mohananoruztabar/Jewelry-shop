@@ -4,7 +4,7 @@ import Link from 'next/link'
 
 function Footer() {
   return (
-    <div className='mt-20 border border-trans '>
+    <div className='mt-20 '>
         <Container>
             <section className='flex justify-between mt-15 mb-20'>
                 <div className=''>
